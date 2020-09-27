@@ -8,12 +8,8 @@ const jose = {
 };
 ```
 ## :collision: I’m currently working on the following repos: 
-1. [Jasfel Analytics Shop Newark (Vendor + Customer) Platform](https://github.com/jose-dom/shopnewarkcustomers)
-2. [Digital Studio E-Commerce Platform](https://github.com/digitalstudiodev/ecommerce)
-
-## :earth_americas: I’m currently learning from the following online courses:
-1. Coursera - IBM Data Science Professional Certificate
-2. LinkedIn Learning - Become a Data Scientist (Learning Path)
+[![shopnewarkcustomers](https://img.shields.io/static/v1?label=shopnewarkcustomers&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jose-dom/shopnewarkcustomers)
+[![ecommerce](https://img.shields.io/static/v1?label=ecommerce&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jose-dom/shopnewarkcustomers)
 
 :speech_balloon: Reach out to me on [LinkedIn](https://www.linkedin.com/in/josedom/)
 
