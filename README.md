@@ -3,13 +3,10 @@
 ```javascript
 const jose = {
     university: "Rutgers University"
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web development", "data science"],
+    code: ["Javascript", "Python", "SQL"],
+    askMeAbout: ["full-stack development", "data science","data engineering"],
 };
 ```
-## :collision: I’m currently working on the following repos: 
-[![shopnewarkcustomers](https://img.shields.io/static/v1?label=shopnewarkcustomers&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jose-dom/shopnewarkcustomers)
-[![ecommerce](https://img.shields.io/static/v1?label=ecommerce&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/jose-dom/shopnewarkcustomers)
 
 :speech_balloon: Reach out to me on [LinkedIn](https://www.linkedin.com/in/josedom/)
 
