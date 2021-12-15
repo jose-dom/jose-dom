@@ -1,8 +1,9 @@
 # Hey, I'm Jose Dominguez 👋
 
 ```javascript
-const jose = {
-    university: "Rutgers University"
+var jose = {
+    university: "Rutgers University",
+    majors: ["Computer Sciene","Applied Physics"],
     code: ["Javascript", "Python", "SQL", "Java"],
     askMeAbout: ["full-stack development", "data science","data engineering", "mobile app development"],
 };
