@@ -3,8 +3,8 @@
 ```javascript
 const jose = {
     university: "Rutgers University"
-    code: ["Javascript", "Python", "SQL"],
-    askMeAbout: ["full-stack development", "data science","data engineering"],
+    code: ["Javascript", "Python", "SQL", "Java"],
+    askMeAbout: ["full-stack development", "data science","data engineering", "mobile app development"],
 };
 ```
 
